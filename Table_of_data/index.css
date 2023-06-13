@@ -1,0 +1,7 @@
+table, th, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    align="center cell padding="5" cell spacing="5"
+}
